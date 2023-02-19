@@ -1,5 +1,3 @@
-
-
 ShareOn is committed to respect your privacy and to comply with applicable data protection and privacy laws. This privacy policy ("Policy") describes our practices concerning the personal information we collect from you or that you provide to us.
 
 If you do not agree with this Policy, you should not use ShareOn.
@@ -17,7 +15,7 @@ Device Information. We will also collect information regarding the device you ar
 We generally use the information we collect about you to:
 
 provide, improve and develop our services;
-support you efficiently using ShareKaro, i.e. to permit you and other users to connect with each other through our services to share content;
+support you efficiently using ShareOn, i.e. to permit you and other users to connect with each other through our services to share content;
 fulfill requests for services, product functionality, support and information for internal operations, including troubleshooting and testing, etc.;
 communicate with you if necessary, including to notify you about changes and updates in our services when you provide your contact information;
 understand how you use ShareOn;
